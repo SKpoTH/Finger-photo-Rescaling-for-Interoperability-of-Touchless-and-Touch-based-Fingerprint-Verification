@@ -1,0 +1,1 @@
+python src/verify_case_run.py -i "../Sample Data/FingerPhoto/" -s "../Sample Data/FingerPhoto Segment/" -r "../Sample Data/FingerPrint/" -o "output/"
