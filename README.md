@@ -9,5 +9,6 @@ The paper Methods implemented by Python 3.9.13
 - scipy                         1.9.1
 - seaborn                       0.11.2
 
-Please cites this work, Thank You!
-...
+Please cites this work<br>
+-Finger photo Rescaling for Interoperability of Touchless and Touch-based Fingerprint Verification<br>
+Thank You!
