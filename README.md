@@ -13,5 +13,5 @@ The implementation of two methods in the paper with Python 3.9.13
 Go to the method folder and run follow in the <b>"sameple_run.txt"</b>
 
 Please cites this work<br>
-S. Kunsuk and V. Areekul, "Finger Photo Rescaling for Interoperability of Touchless and Touch-based Fingerprint Verification," 2023 17th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), Bangkok, Thailand, 2023, pp. 168-175, doi: 10.1109/SITIS61268.2023.00033.<br>
+<u>S. Kunsuk and V. Areekul, "Finger Photo Rescaling for Interoperability of Touchless and Touch-based Fingerprint Verification," 2023 17th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS), Bangkok, Thailand, 2023, pp. 168-175, doi: 10.1109/SITIS61268.2023.00033.</u><br>
 Thank You!
